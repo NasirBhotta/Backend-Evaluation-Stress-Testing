@@ -1,0 +1,1 @@
+../../rules/always/safety.md

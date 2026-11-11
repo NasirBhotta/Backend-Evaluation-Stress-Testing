@@ -1,0 +1,13 @@
+{
+  "name": "bench",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "bench": "node src/cli.js",
+    "benchmarks": "node v2/pick-server.js"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.11.0"
+  }
+}

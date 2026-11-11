@@ -1,0 +1,1 @@
+../../rules/scoped/bench.md
